@@ -3,4 +3,4 @@ fastparquet
 dnspython
 matplotlib
 numpy
-panda
+pandas
